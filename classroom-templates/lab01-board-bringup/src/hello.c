@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    printf("Hello from Lab 01 on BeagleBone Black!\n");
+    printf("Hello from Lab 01 on Luckfox Lyra!\n");
 
     return 0;
 }
